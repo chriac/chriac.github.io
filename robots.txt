@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chriac.github.io/sitemap/sitemap.HVs.gz
